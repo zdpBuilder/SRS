@@ -60,7 +60,7 @@ CREATE TABLE `schedule_course` (
 
 /*Data for the table `schedule_course` */
 
-insert  into `schedule_course`(`course_no`,`calss_no`,`day_of_week`,`time_of_day`,`room`,`capacity`) values ('CS101',1,'周一','上午8:00-10:00','A101',30),('CS101',1,'周一','上午8:00-10:00','A101',30),('CS102',1,'周三','下午2:00-4:00','C105',25),('CS102',1,'周三','下午2:00-4:00','C105',25),('CS103',1,'周一','下午6:00-8:00','E101',20),('MAT101',1,'周五','下午4:00-6:00','D241',15),('CS201',1,'周一','下午4:00-6:00','A205',1);
+insert  into `schedule_course`(`course_no`,`calss_no`,`day_of_week`,`time_of_day`,`room`,`capacity`) values ('CS101',1,'周一','上午8:00-10:00','A101',30),('CS101',2,'周二','上午8:00-10:00','A202',30),('CS102',1,'周三','下午2:00-4:00','C105',25),('CS102',2,'周四','下午4:00-6:00','D330',25),('CS103',1,'周一','下午6:00-8:00','E101',20),('MAT101',1,'周五','下午4:00-6:00','D241',15),('CS201',1,'周一','下午4:00-6:00','A205',1);
 
 /*Table structure for table `student` */
 
@@ -88,7 +88,7 @@ CREATE TABLE `teaching_assignments` (
 
 /*Data for the table `teaching_assignments` */
 
-insert  into `teaching_assignments`(`pid`,`calss_no`) values ('123403','CS101-1'),('123402','CS101-2'),('123401','CS102-1'),('123403','CS102-2'),('123401','CS103-1'),('123402','loT101-1'),('123403','CS201-1');
+insert  into `teaching_assignments`(`pid`,`calss_no`) values ('123403','CS101-1'),('123402','CS101-2'),('123401','CS102-1'),('123403','CS102-2'),('123401','CS103-1'),('123402','MAT101-1'),('123403','CS201-1');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
