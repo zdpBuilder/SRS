@@ -3,10 +3,10 @@ package com.srs.domain;
 /***
  * 
  * @ClassName:  Course   
- * @Description:Course 类
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:39:35      
- * @Copyright:
+ * @Description:课程类  
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:24:03      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class Course {
 

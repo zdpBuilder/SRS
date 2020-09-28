@@ -1,12 +1,12 @@
 package com.srs.domain;
 
-/**
+/***
  * 
  * @ClassName:  Professor   
- * @Description:   Professor 类
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:38:25      
- * @Copyright:
+ * @Description:Professor 类  
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:24:50      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class Professor extends Person{
 

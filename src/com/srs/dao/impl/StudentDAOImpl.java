@@ -10,10 +10,10 @@ import com.srs.domain.Student;
 /***
  * 
  * @ClassName:  StudentDAOImpl   
- * @Description:学生接口实现类
- * @author: zdpBuilder
- * @date:   2020年9月22日 下午2:49:20      
- * @Copyright:
+ * @Description:StudentDAO 实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:20:57      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class StudentDAOImpl implements StudentDAO {
 	private List<Student> students = new ArrayList<>();

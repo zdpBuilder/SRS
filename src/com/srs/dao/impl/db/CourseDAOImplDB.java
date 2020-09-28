@@ -10,13 +10,13 @@ import com.srs.domain.Course;
 import com.srs.utils.EmptyUtils;
 import com.srs.utils.JDBC;
 
-/***
+/**
  * 
- * @ClassName:  CourseDAOImpl   
- * @Description:CourseDAOImpl 实现类   
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:46:43      
- * @Copyright:
+ * @ClassName:  CourseDAOImplDB   
+ * @Description:CourseDAO 实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:21:36      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class CourseDAOImplDB implements CourseDAO{
 	private Map<String, Course> courses = null;

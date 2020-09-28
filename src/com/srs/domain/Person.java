@@ -3,10 +3,10 @@ package com.srs.domain;
 /***
  * 
  * @ClassName:  Person   
- * @Description: Person抽象类  
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:00:49      
- * @Copyright:
+ * @Description:Person抽象类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:24:27      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public abstract class Person {
 	

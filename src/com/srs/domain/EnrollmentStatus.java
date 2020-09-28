@@ -1,12 +1,12 @@
 package com.srs.domain;
 
-/**
+/***
  * 
  * @ClassName:  EnrollmentStatus   
- * @Description:EnrollmentStatus 类  
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:39:01      
- * @Copyright:
+ * @Description:EnrollmentStatus 枚举类  
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:24:14      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public enum EnrollmentStatus {
 

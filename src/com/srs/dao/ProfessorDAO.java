@@ -7,10 +7,10 @@ import com.srs.domain.Professor;
 /**
  * 
  * @ClassName:  ProfessorDAO   
- * @Description:教授接口类  
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:18:11      
- * @Copyright:
+ * @Description:定义教授对象操作接口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:18:22      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public interface ProfessorDAO {
 

@@ -4,6 +4,14 @@ import java.util.List;
 
 import com.srs.domain.Student;
 
+/***
+ * 
+ * @ClassName:  StudentDAO   
+ * @Description: 定义学生类操作接口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:19:13      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public interface StudentDAO {
 
 	/**

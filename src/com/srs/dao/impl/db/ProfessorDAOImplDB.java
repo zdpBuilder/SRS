@@ -12,11 +12,11 @@ import com.srs.utils.JDBC;
 
 /***
  * 
- * @ClassName: ProfessorDaoImpl
- * @Description:ProfessorDaoImpl
- * @author: zdpBuilder
- * @date: 2020年9月22日 下午2:37:10
- * @Copyright:
+ * @ClassName:  ProfessorDAOImplDB   
+ * @Description: ProfessorDAO实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:21:55      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class ProfessorDAOImplDB implements ProfessorDAO {
 

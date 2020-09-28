@@ -11,6 +11,14 @@ import com.srs.domain.ScheduledCourse;
 import com.srs.utils.JDBC;
 import com.srs.utils.EmptyUtils;
 
+/**
+ * 
+ * @ClassName:  TeachingAssignmentDAOImplDB   
+ * @Description:TeachingAssignmentDAO 实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:22:34      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class TeachingAssignmentDAOImplDB implements TeachingAssignmentDAO {
 
 	@Override

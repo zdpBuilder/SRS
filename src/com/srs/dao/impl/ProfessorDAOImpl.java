@@ -7,13 +7,13 @@ import java.util.ListIterator;
 import com.srs.dao.ProfessorDAO;
 import com.srs.domain.Professor;
 
-/***
+/**
  * 
- * @ClassName:  ProfessorDaoImpl   
- * @Description:ProfessorDaoImpl  
- * @author: zdpBuilder
- * @date:   2020年9月22日 下午2:37:10      
- * @Copyright:
+ * @ClassName:  ProfessorDAOImpl   
+ * @Description:ProfessorDAO 实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:20:28      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class ProfessorDAOImpl implements ProfessorDAO{
 

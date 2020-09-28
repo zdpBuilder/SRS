@@ -12,11 +12,11 @@ import com.srs.domain.Course;
 
 /***
  * 
- * @ClassName:  CourseDAOImpl   
- * @Description:CourseDAOImpl 实现类   
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:46:43      
- * @Copyright:
+ * @ClassName:  CourseDAOImplFile   
+ * @Description: CourseDAO实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:22:50      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class CourseDAOImplFile implements CourseDAO{
 	private Map<String, Course> courses =  new HashMap<String,Course>();

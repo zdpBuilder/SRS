@@ -1,6 +1,7 @@
 package com.srs.console;
 
 import com.srs.dao.CourseDAO;
+
 import com.srs.dao.ProfessorDAO;
 import com.srs.dao.ScheduledCourseDAO;
 import com.srs.dao.StudentDAO;
@@ -15,6 +16,14 @@ import com.srs.domain.Professor;
 import com.srs.domain.ScheduledCourse;
 import com.srs.domain.Student;
 
+/***
+ * 
+ * @ClassName:  application   
+ * @Description:程序入口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:16:33      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class application {
 
 	public static void main(String[] args) {

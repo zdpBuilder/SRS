@@ -14,11 +14,11 @@ import com.srs.domain.ScheduledCourse;
 
 /***
  * 
- * @ClassName:  ScheduledCourseDaoImpl   
- * @Description:课程表实现类   
- * @author: zdpBuilder
- * @date:   2020年9月22日 下午2:55:18      
- * @Copyright:
+ * @ClassName:  ScheduledCourseDAOImplFile   
+ * @Description: ScheduledCourseDAO实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:23:17      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class ScheduledCourseDAOImplFile implements ScheduledCourseDAO {
 	

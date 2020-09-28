@@ -4,13 +4,13 @@ import java.util.List;
 
 import com.srs.domain.ScheduledCourse;
 
-/**
+/***
  * 
  * @ClassName:  ScheduledCourseDAO   
- * @Description:课程时间表接口类   
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:36:51      
- * @Copyright:
+ * @Description:定义课程时间表操作类 
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:18:56      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public interface ScheduledCourseDAO {
 

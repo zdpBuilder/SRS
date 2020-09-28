@@ -2,13 +2,14 @@ package com.srs.utils;
 
 import java.util.List;
 import java.util.Map;
-/***
+
+/**
  * 
  * @ClassName:  EmptyUtils   
- * @Description:判空工具包   
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:14:04      
- * @Copyright:
+ * @Description:判空工具包    
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月21日 上午7:26:00      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class EmptyUtils {
 	

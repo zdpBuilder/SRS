@@ -8,6 +8,14 @@ import com.srs.dao.ScheduledCourseDAO;
 import com.srs.dao.TeachingAssignmentDAO;
 import com.srs.domain.Professor;
 
+/**
+ * 
+ * @ClassName:  TeachingAssignmentDAOImplFile   
+ * @Description:TeachingAssignmentDAO 实现类   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:23:46      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class TeachingAssignmentDAOImplFile implements TeachingAssignmentDAO {
 
 	@Override

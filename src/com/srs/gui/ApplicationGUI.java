@@ -27,6 +27,14 @@ import com.srs.domain.Student;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * 
+ * @ClassName:  ApplicationGUI   
+ * @Description: 图形化界面 入口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:25:35      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class ApplicationGUI {
 
 	private JFrame frame;

@@ -3,10 +3,10 @@ package com.srs.dao;
 /***
  * 
  * @ClassName:  TeachingAssignmentDAO   
- * @Description:教学任务接口  
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:39:57      
- * @Copyright:
+ * @Description: 定义教学任务业务操作接口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:19:38      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public interface TeachingAssignmentDAO {
 

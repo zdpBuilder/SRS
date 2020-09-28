@@ -14,7 +14,14 @@ import com.srs.domain.EnrollmentStatus;
 import com.srs.domain.Professor;
 import com.srs.domain.ScheduledCourse;
 import com.srs.domain.Student;
-
+/**
+ * 
+ * @ClassName:  applicationDB   
+ * @Description:程序入口   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:17:05      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class applicationDB {
 
 	public static void main(String[] args) {

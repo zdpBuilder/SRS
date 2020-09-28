@@ -15,6 +15,14 @@ import com.mysql.jdbc.PreparedStatement;
 import com.mysql.jdbc.ResultSetMetaData;
 import com.mysql.jdbc.Statement;
 
+/**
+ * 
+ * @ClassName:  JDBC   
+ * @Description:JDBC 工具包   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月21日 上午7:26:33      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class JDBC {
 
 	private static String driver = null;

@@ -4,6 +4,14 @@ import com.srs.dao.ProfessorDAO;
 import com.srs.dao.ScheduledCourseDAO;
 import com.srs.dao.TeachingAssignmentDAO;
 
+/***
+ * 
+ * @ClassName:  TeachingAssignmentDAOImpl   
+ * @Description:TeachingAssignmentDAO 实现类  
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:21:09      
+ * @Copyright:  张戴鹏(zdpBuilder)
+ */
 public class TeachingAssignmentDAOImpl implements TeachingAssignmentDAO {
 
 	@Override

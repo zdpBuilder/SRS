@@ -3,13 +3,13 @@ package com.srs.domain;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
+/***
  * 
  * @ClassName:  ScheduledCourse   
- * @Description:ScheduledCourse 类  
- * @author: zdpBuilder
- * @date:   2020年9月21日 下午8:38:48      
- * @Copyright:
+ * @Description: ScheduledCourse 类  
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:24:58      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public class ScheduledCourse {
 

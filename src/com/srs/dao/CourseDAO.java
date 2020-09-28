@@ -7,10 +7,10 @@ import com.srs.domain.Course;
 /***
  * 
  * @ClassName:  CourseDAO   
- * @Description:课程接口类   
- * @author: zdpBuilder
- * @date:   2020年9月22日 上午8:13:42      
- * @Copyright:
+ * @Description: 定义课程业务操作   
+ * @author: 张戴鹏(zdpBuilder)
+ * @date:   2020年9月28日 下午2:17:49      
+ * @Copyright:  张戴鹏(zdpBuilder)
  */
 public interface CourseDAO {
 
